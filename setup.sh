@@ -43,6 +43,7 @@ ln -s ~/.dotfiles/.zshrc ~/.zshrc
 ln -s ~/.dotfiles/.tmux.conf ~/.tmux.conf
 ln -s ~/.dotfiles/.gitconfig ~/.gitconfig
 ln -s ~/.dotfiles/JetBrains ~/.config/JetBrains
+ln -s ~/.dotfiles/background ~/
 
 # installing packer.nvim
 git clone --depth 1 https://github.com/wbthomason/packer.nvim\
