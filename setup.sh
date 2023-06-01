@@ -22,10 +22,9 @@ sudo apt install curl
 sudo apt install i3 feh
 
 # installing terminal tools
-sudo apt install kitty zsh tmux
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sudo apt install kitty zsh tmux neovim
 
-# installing neovim
+# installing newer version of neovim
 install_neovim() {
 	curl -JLO https://github.com/neovim/neovim/releases/download/stable/nvim-linux64.tar.gz
 	tar xzvf nvim-linux64.tar.gz
@@ -62,3 +61,6 @@ gh auth login
 # install learning
 cd
 gh repo clone brianpaglii/learning
+
+# install ohmyzsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
