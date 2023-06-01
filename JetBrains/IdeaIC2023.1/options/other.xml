@@ -1,0 +1,67 @@
+<application>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Oracle OpenJDK 20.0.1" />
+        <option name="installDir" value="$USER_HOME$/.jdks/openjdk-20.0.1" />
+        <option name="sha256" value="4248a3af4602dbe2aefdb7010bc9086bf34a4155888e837649c90ff6d8e8cef9" />
+        <option name="url" value="https://download.java.net/java/GA/jdk20.0.1/b4887098932d415489976708ad6d1a4b/9/GPL/openjdk-20.0.1_linux-x64_bin.tar.gz" />
+        <option name="versionText" value="20.0.1" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "MarketplacePluginsSearchHistory": "copilot\ncopil\ncop\nvim\nidea",
+    "NewProjectWizard.generateOnboardingTips": "true",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "font",
+    "appcds.runOnSecondStart": "IC-231.9011.34-ac5cdb034a7496ad98bba45c3f00dcf8fde5a948afa4925ed3846b585892e937",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IC-231.9011.34",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "defaultJdkConfigured": "true",
+    "experimental.ui.first.promotion.localdate": "2023-05-30",
+    "experimental.ui.used.once": "true",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "20.0",
+    "fontSizeToResetEditor": "20.0",
+    "got.it.tooltip.copilot.inlayGotIt": "1",
+    "got.it.tooltip.onboarding.tips.debug.panel.got.it": "1",
+    "gotit.previous.run": "IC-231.9011.34",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1685441792449",
+    "ift.hide.welcome.screen.promo": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "231-1.8.21-IJ9011.34",
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "onboarding.generation.number": "1",
+    "previousColorScheme": "_@user_Catppuccin Mocha",
+    "project.wizard.group": "NPW.simple-project",
+    "registry.to.advanced.settings.migration.build": "IC-231.9011.34",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;CommentCode&quot;: 1685449924859
+  }
+}</component>
+</application>

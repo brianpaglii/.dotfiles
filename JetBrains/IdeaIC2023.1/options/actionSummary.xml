@@ -1,0 +1,73 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1685441756980" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1685450693210" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="17" l="1685450711540" />
+    </e>
+    <e n="EditorEnter">
+      <i c="2" l="1685457084924" />
+    </e>
+    <e n="Resume">
+      <i c="5" l="1685450702951" />
+    </e>
+    <e n="Run">
+      <i c="6" l="1685457127988" />
+    </e>
+    <e n="SaveAll">
+      <i c="7" l="1685599188235" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1685450197368" />
+    </e>
+    <e n="ShowSettings">
+      <i c="8" l="1685456993523" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1685441694551" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1685450433575" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeLookAndFeel$LafChangeAction">
+      <i c="1" l="1685450202915" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="1" l="1685450200483" />
+    </e>
+    <e n="com.intellij.ide.wizard.NewProjectWizardLanguageStep$AdditionalStepsAction">
+      <i c="2" l="1685441701445" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1685451508657" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="13" l="1685457108426" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1685450345675" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="5" l="1685457048750" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="11" l="1685456977345" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="5" l="1685457077883" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="1" l="1685441699968" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="7" l="1685599188219" />
+    </e>
+    <e n="copilot.applyInlays">
+      <i c="1" l="1685457091960" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,100 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">d3E=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <jump line="5" column="4" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+    <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+    <jump line="9" column="37" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+    <jump line="10" column="40" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+    <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+    <jump line="8" column="25" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+    <jump line="14" column="4" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+    <jump line="16" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+    <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+    <jump line="11" column="4" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+    <jump line="4" column="8" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+    <jump line="6" column="4" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+    <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/Main.java" timestamp="1685599188254">
+        <mark key="&quot;" line="6" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/.gitignore" timestamp="1685450345691">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1685450702153">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1685457078051">
+        <mark key="&quot;" line="7" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gdGhlbiBwcmVzcyBFbnRlci4gWW91IGNhbiBub3cgc2VlIHdoaXRlc3BhY2UgY2hhcmFjdGVycyBpbiB5b3VyIGNvZGUuCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">fQ==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64" />
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gdGhlbiBwcmVzcyBFbnRlci4gWW91IGNhbiBub3cgc2VlIHdoaXRlc3BhY2UgY2hhcmFjdGVycyBpbiB5b3VyIGNvZGUuCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gUHJlc3MgU2hpZnQgdHdpY2UgdG8gb3BlbiB0aGUgU2VhcmNoIEV2ZXJ5d2hlcmUgZGlhbG9nIGFuZCB0eXBlIGBzaG93IHdoaXRlc3BhY2VzYCwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBQcmludCBvdXQgYSBweXJhbWlkIG9mIHN0YXJzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwOyBpKyspIHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBpICsgMTsgaisrKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIioiKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">d3E=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>
