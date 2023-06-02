@@ -1,28 +1,27 @@
 #!/bin/bash
 
 # update the system
-sudo add-apt-repository multiverse
 sudo apt update
 sudo apt upgrade
 
 # install build essentials
-sudo apt install build-essential
+sudo apt install build-essential -y
 
 # install node.js
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - &&\
 sudo apt-get install -y nodejs
 
 # installing github
-sudo apt install gh
+sudo apt install gh -y
 
 # installing curl
-sudo apt install curl
+sudo apt install curl -y
 
 # installing i3
-sudo apt install i3 feh
+sudo apt install i3 feh -y
 
 # installing terminal tools
-sudo apt install kitty zsh tmux neovim
+sudo apt install kitty zsh tmux neovim -y
 
 # installing newer version of neovim
 install_neovim() {
@@ -50,6 +49,8 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 
 # move fonts
 ln -s ~/.dotfiles/fonts ~/.fonts
+sudo add-apt-repository multiverse
+sudo apt update
 sudo apt install ttf-mscorefonts-installer
 
 # cache fonts to linux
