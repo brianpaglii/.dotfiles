@@ -51,7 +51,7 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 ln -s ~/.dotfiles/fonts ~/.fonts
 sudo add-apt-repository multiverse
 sudo apt update
-sudo apt install ttf-mscorefonts-installer
+sudo apt install ttf-mscorefonts-installer -y
 
 # cache fonts to linux
 fc-cache -fv
