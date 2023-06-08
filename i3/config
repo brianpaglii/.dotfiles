@@ -189,4 +189,4 @@ bar {
 for_window [class="^.*"] border pixel 0
 
 # wallpaper
-exec_always feh --bg-fill ~/background
+exec_always feh --bg-fill ~/.dotfiles/wallpaper.png
